@@ -1,3 +1,15 @@
+这是一份来自 github.com/hyperledger/fabric  V1.0 的源码。
+
+同时这是一份我自己保存用来进行fabric源码分析的opensource。
+
+能力有限，肯定会有很多地方分析错误，争取错误越来越少。
+
+分析的源码和心得体会都全部内嵌在源码中间，方便边看边分析。
+
+一个区块链爱好者，欢迎参与PR。
+
+项目地址  github.com/bingoer/fabric_sourcecode_analysis
+
 
 **Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
 where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=5&view=planning)
